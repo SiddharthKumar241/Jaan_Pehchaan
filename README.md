@@ -1,3 +1,4 @@
+# Jaan Pechaan
 # 🤝 Social Network Friend Suggester
 
 🧑‍🤝‍🧑 A Java-powered friend recommender for your social circle — smart suggestions, mutual vibes & CLI magic! ⚡💬
